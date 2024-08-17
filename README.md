@@ -1,5 +1,32 @@
 ## Opa! Bem vindo ao meu perfil👋
 
+Sou um desenvolvedor full stack, fascinado por tecnologia e criar inovações. Possuo amplo conhecimento em JavaScript e seus frameworks. E atualmente colaboro em startups locais como a C10 e Tchê Delivery fazendo manuntenção no seus projetos e criando novos sistemas.
+
+## Tecnologias:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" margin-right=4 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+          
+          
+               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+</div>
+
+
+## Estou aprendendo:
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+          
+</div>
 
 
   
