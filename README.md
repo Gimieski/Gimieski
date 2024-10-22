@@ -1,6 +1,6 @@
 ## Opa! Bem vindo ao meu perfil👋
 
-Sou um desenvolvedor full stack, fascinado por tecnologia e criar inovações. Possuo amplo conhecimento em JavaScript e seus frameworks. E atualmente colaboro em startups locais como a C10 e Tchê Delivery fazendo manuntenção no seus projetos e criando novos sistemas.
+Sou um desenvolvedor full stack, fascinado por tecnologia e criar inovações. Possuo amplo conhecimento em JavaScript e seus frameworks. Já colaborei em startups locais desenvolvendo para WEB, Aplicativos e SaaS.
 
 ## Tecnologias:
 <div>
